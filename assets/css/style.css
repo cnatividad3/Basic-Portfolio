@@ -16,14 +16,12 @@ h1{
   color:white;
   position: relative;
   top:20px;
-  margin-left: 40px;
 }
   
 nav {
   float:right;
   position: relative;
   top: 70px;
-
 }
 
 a {
@@ -38,14 +36,25 @@ body {
   margin: 0 auto;
 }
 
+h2{
+  border-bottom: 1px solid #777;
+  padding-bottom:20px;
+  padding-top: 20px;
+  color: #4aaaa5;
+
+}
+
 p{
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .container{
- 
+
 }
 
 footer {
   background: #666666;
+  height: 50px;
+  text-align: center;
+  padding: 20px;
 }
